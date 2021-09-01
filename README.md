@@ -1,5 +1,5 @@
 # DimensionalityReduction
-Goal: To reduce the dimension of the data while retaining as much information as possible
+Goal: To reduce the dimension of the data while retaining as much information as possible <br />
 Data: https://www.kaggle.com/c/digit-recognizer
 
 
