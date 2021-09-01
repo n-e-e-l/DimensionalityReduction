@@ -12,8 +12,11 @@ The given Data set has more than 800 columns.
 4.) Feature vector<br />
 5.) Recast the data along the principal components axes<br />
 
+![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olmpic_1.JPG?raw=true "Insight")
 
 ### T-Sne
 1.) Compute probabilities proportional to the similarity of objects <br />
 2.) Measure similarities between low-dimensional points <br />
 3.) Minimization of the Kullback–Leibler divergence  reflects similarities between the high-dimensional inputs <br />
+
+![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olmpic_1.JPG?raw=true "Insight")
